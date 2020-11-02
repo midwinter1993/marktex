@@ -1,0 +1,3 @@
+[submodule "ElegantNote"]
+	path = ElegantNote
+	url = git@github.com:ElegantLaTeX/ElegantNote.git
