@@ -8,3 +8,4 @@ edition = "2018"
 
 [dependencies]
 pulldown-cmark = { version = "0.8", default-features = false }
+clap = "3.0.0-beta.2"
